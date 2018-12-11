@@ -29,3 +29,11 @@ Assinam esse manifesto:
 
 ## PyLadies Manaus <@pyladiesmanaus>
 - Juliany Raiol
+
+## PyLadies São José dos Campos <@pyladiessjc>
+- Letícia Silva
+- Ingrid Sena
+- Andressa Flávia
+- Fernanda Ribeiro
+- Gabriela Baldivia
+
